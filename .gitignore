@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Frontend
+ems-frontend/node_modules/
+ems-frontend/dist/
+
+# Backend
+ems-backend/target/
